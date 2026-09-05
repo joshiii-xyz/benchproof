@@ -6,7 +6,7 @@ warmup and repetition policy, raw timing samples, summary statistics, host
 identity, affinity request, readable CPU and thermal signals, selected
 filesystem cache policy, and explicit uncertainty.
 
-Status: released v0.1.0.
+Status: 0.1.0 implementation pending release evidence.
 
 CI: https://github.com/joshiii-xyz/benchproof/actions
 
